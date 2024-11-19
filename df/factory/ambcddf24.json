@@ -1,0 +1,9 @@
+{
+	"name": "ambcddf24",
+	"location": "italynorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9c689df-8993-4e7b-bcc0-bd7ec5aca968",
+		"tenantId": "87906c4a-b2fc-4c3e-b666-dbb90131b853"
+	}
+}
